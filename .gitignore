@@ -1,0 +1,12 @@
+# 敏感配置（含邮箱授权码，绝不提交）
+mail_config.json
+
+# 每日生成物
+digest_*.json
+report_*.md
+test_report.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/

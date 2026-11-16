@@ -1,0 +1,6 @@
+# GitHub 日报监控仓库列表
+# 每行一个仓库，格式：owner/repo
+# 想新增项目时，直接在下面加一行即可，日报会自动覆盖所有仓库
+D4Vinci/Scrapling
+langchain-ai/langgraph
+typesafe-ai/skills
